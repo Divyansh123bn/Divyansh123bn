@@ -1,34 +1,24 @@
 # 💫About Me :
 👋 About Me
-Hi there! I'm a 3rd-year Computer Science student at Mahakal Institute of Technology, Ujjain, with a strong interest in backend development and cloud technologies. I'm passionate about building scalable, reliable applications and love diving deep into the world of software engineering.
+Hi there! I'm a 3rd Year Computer Science student at Mahakal Institute of Technology, Ujjain, with a strong interest in backend development and cloud technologies. I'm passionate about building scalable, reliable applications and love diving deep into the world of software engineering.
 
 💻 Tech Stack
 Languages: Java, JavaScript, SQL
-
 Backend Frameworks: Spring Boot
-
 DevOps & Cloud: Docker, Render, Git & GitHub
-
 Databases: MySQL, PostgreSQL
-
 Tools & Platforms: Postman, IntelliJ IDEA, VS Code
 
 🚀 What I'm Working On
 Building robust backend APIs using Java Spring Boot
-
 Containerizing applications using Docker
-
 Deploying services on Render
-
 Exploring best practices in clean architecture and microservices
 
 📈 Goals
 Master system design and scalable architectures
-
 Contribute to open-source projects
-
 Learn cloud platforms like AWS or GCP
-
 Collaborate with other developers and work on impactful projects
 
 📬 Let’s Connect!
