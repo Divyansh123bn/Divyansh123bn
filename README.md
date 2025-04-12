@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, JAVA, HTML, CSS, Tailwind CSS, JavaScript, React, Java,Spring, SpringBoot, Microservices**
 
-- 💬 Ask me about **Python, JAVA, HTML, CSS, SpringBoot, Spring**
+- 💬 Ask me about **Python, Java, HTML, CSS, SpringBoot, Spring**
 
 - 📫 How to reach me **divyansh123bn@gmail.com**
 
