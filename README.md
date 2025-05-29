@@ -1,6 +1,6 @@
 # 💫About Me :
 👋 About Me
-Hi there! I'm a 3rd Year Computer Science student at Mahakal Institute of Technology, Ujjain, with a strong interest in backend development and cloud technologies. I'm passionate about building scalable, reliable applications and love diving deep into the world of software engineering.
+Hi there! I'm a 3rd Year Computer Science student at Mahakal Institute of Technology, Ujjain, with a strong interest in backend development and cloud technologies. I'm passionate about building scalable, reliable applications and love diving deep into the world of Software Engineering.
 
 💻 Tech Stack
 Languages: Java, JavaScript, SQL
