@@ -7,7 +7,7 @@ Languages: Java, JavaScript, SQL
 Backend Frameworks: Spring Boot
 DevOps & Cloud: Docker, Render, Git & GitHub
 Databases: MySQL, PostgreSQL
-Tools & Platforms: Postman, IntelliJ IDEA, VS Code
+Tools & Platforms: Postman, IntelliJ IDEA, VS Code.
 
 🚀 What I'm Working On
 Building robust backend APIs using Java Spring Boot
