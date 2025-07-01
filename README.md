@@ -8,4 +8,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Divyansh123bn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-https://github-profile-trophy.vercel.app/?username=Divyansh123bn&row=2&column=3
+[![](https://github-profile-trophy.vercel.app/?username=Divyansh123bn&row=2&column=3)
+
